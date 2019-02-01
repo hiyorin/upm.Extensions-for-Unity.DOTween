@@ -1,0 +1,11 @@
+{
+  "name": "com.hiyorin.extensions.dotween",
+  "displayName":  "UnityExtensions.DOTWeen",
+  "version": "1.0.0",
+  "unity": "2018.3",
+  "description": "C# Extension Method for Unity",
+  "keywords": [ "Extension" ],
+  "Author": "Kazuma Kuwabara (a.k.a. @hiyorin)",
+  "dependencies": {
+  }
+}
