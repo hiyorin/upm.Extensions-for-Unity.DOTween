@@ -1,6 +1,6 @@
 {
   "name": "com.hiyorin.extensions.dotween",
-  "displayName":  "UnityExtensions.DOTWeen",
+  "displayName": "UnityExtensions.DOTWeen",
   "version": "1.0.0",
   "unity": "2018.3",
   "description": "C# Extension Method for Unity",
@@ -8,6 +8,6 @@
   "Author": "Kazuma Kuwabara (a.k.a. @hiyorin)",
   "dependencies": {
     "com.hiyorin.extensions": "git://github.com/hiyorin/upm.Extensions-for-Unity.git",
-    "com.hiyorin.extensions.unirx": "git://github.com/hiyorin/upm.Extensions-for-Unity.UniRx.git",
+    "com.hiyorin.extensions.unirx": "git://github.com/hiyorin/upm.Extensions-for-Unity.UniRx.git"
   }
 }
