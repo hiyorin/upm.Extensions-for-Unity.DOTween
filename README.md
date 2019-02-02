@@ -4,6 +4,7 @@ package manager
 
 # Requirement
 * [UniRx](https://github.com/neuecc/UniRx)(6.1.1 or higher)
+* [DOTween](https://github.com/Demigiant/dotween)
 * [upm.Extensions-for-Unity](https://github.com/hiyorin/upm.Extensions-for-Unity)
 * [upm.Extensions-for-Unity.UniRx](https://github.com/hiyorin/upm.Extensions-for-Unity.UniRx)
 
