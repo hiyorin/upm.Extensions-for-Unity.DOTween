@@ -7,5 +7,7 @@
   "keywords": [ "Extension" ],
   "Author": "Kazuma Kuwabara (a.k.a. @hiyorin)",
   "dependencies": {
+    "com.hiyorin.extensions": "git://github.com/hiyorin/upm.Extensions-for-Unity.git",
+    "com.hiyorin.extensions.unirx": "git://github.com/hiyorin/upm.Extensions-for-Unity.UniRx.git",
   }
 }
